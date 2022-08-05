@@ -46,6 +46,3 @@ async function onConsumeEmail() {
 onConsumeEmail();
 
 
-//doğrulama ve uygulama şifresi üzerinden yapılacak yada outlook üzerinden 
-//bu fonksiyonları controllerden çağırman lazım bak 
-//unitteste bak bakaamazsan bile yaz bittiğini sadece onun kaldıgını 
